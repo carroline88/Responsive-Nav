@@ -232,3 +232,18 @@ footer {
     font-size: 1rem;
   }
 }
+
+.section-box {
+  background: #ffffff;
+  padding: 2.5rem;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.04);
+}
+
+.section-box p {
+  color: #64748b;
+  max-width: 650px;
+  margin: 0 auto;
+}
